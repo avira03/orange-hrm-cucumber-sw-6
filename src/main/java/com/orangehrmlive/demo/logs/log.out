@@ -1,0 +1,281 @@
+2023-12-18 17:12:712 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (9028996d04bc6e01b3149f35b14f92f2)] -> name: username]
+2023-12-18 17:12:816 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 17:12:884 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (9028996d04bc6e01b3149f35b14f92f2)] -> xpath: //button[@type='submit']]
+2023-12-18 18:12:499 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (c8807b7a8dd1627b1ee7f7004feb582f)] -> name: username]
+2023-12-18 18:12:612 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 18:12:694 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (c8807b7a8dd1627b1ee7f7004feb582f)] -> xpath: //button[@type='submit']]
+2023-12-18 18:12:835 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (801fd9cf4fa145ce7458c0ad0c169954)] -> name: username]
+2023-12-18 18:12:996 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 18:12:83 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (801fd9cf4fa145ce7458c0ad0c169954)] -> xpath: //button[@type='submit']]
+2023-12-18 18:12:432 INFO  HomePage :43 - Clicking on user profile [[ChromeDriver: chrome on windows (801fd9cf4fa145ce7458c0ad0c169954)] -> xpath: //p[@class='oxd-userdropdown-name']]
+2023-12-18 18:12:322 INFO  HomePage :48 - Clicking on logout button [[ChromeDriver: chrome on windows (801fd9cf4fa145ce7458c0ad0c169954)] -> xpath: //a[normalize-space()='Logout']]
+2023-12-18 18:12:564 INFO  HomePage :33 - Verifying login text [[ChromeDriver: chrome on windows (801fd9cf4fa145ce7458c0ad0c169954)] -> xpath: //h5[@class='oxd-text oxd-text--h5 orangehrm-login-title']]
+2023-12-18 18:12:323 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (dd1e1a15a8f94e6be55e298e3b136651)] -> name: username]
+2023-12-18 18:12:449 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 18:12:515 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (dd1e1a15a8f94e6be55e298e3b136651)] -> xpath: //button[@type='submit']]
+2023-12-18 18:12:395 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (80938be4793a93f4d90499ea25d0fea3)] -> name: username]
+2023-12-18 18:12:497 INFO  LoginPage :50 - Enter the password 
+2023-12-18 18:12:572 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (80938be4793a93f4d90499ea25d0fea3)] -> xpath: //button[@type='submit']]
+2023-12-18 18:12:175 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (af409cedaaed8af2003888570258d14a)] -> name: username]
+2023-12-18 18:12:290 INFO  LoginPage :50 - Enter the password 
+2023-12-18 18:12:356 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (af409cedaaed8af2003888570258d14a)] -> xpath: //button[@type='submit']]
+2023-12-18 18:12:837 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (2259eb215a0d808443a18afdf883da8b)] -> name: username]
+2023-12-18 18:12:967 INFO  LoginPage :50 - Enter the password test123
+2023-12-18 18:12:38 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (2259eb215a0d808443a18afdf883da8b)] -> xpath: //button[@type='submit']]
+2023-12-18 18:12:552 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (c1b7189d3d3141088ac35585fda060d3)] -> name: username]
+2023-12-18 18:12:679 INFO  LoginPage :50 - Enter the password test123
+2023-12-18 18:12:743 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (c1b7189d3d3141088ac35585fda060d3)] -> xpath: //button[@type='submit']]
+2023-12-18 18:12:969 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (36a3ddc799a196ed996d2f13e3eb5e14)] -> name: username]
+2023-12-18 18:12:117 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 18:12:197 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (36a3ddc799a196ed996d2f13e3eb5e14)] -> xpath: //button[@type='submit']]
+2023-12-18 18:12:945 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (49057093178446883576849fd218dde8)] -> name: username]
+2023-12-18 18:12:74 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 18:12:143 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (49057093178446883576849fd218dde8)] -> xpath: //button[@type='submit']]
+2023-12-18 18:12:122 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (49057093178446883576849fd218dde8)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-18 18:12:868 INFO  AdminPage :38 - Clicking on add button [[ChromeDriver: chrome on windows (49057093178446883576849fd218dde8)] -> xpath: //button[normalize-space()='Add']]
+2023-12-18 18:12:623 INFO  AddUserPage :91 - Enter the employee name [[ChromeDriver: chrome on windows (49057093178446883576849fd218dde8)] -> xpath: //input[@placeholder='Type for hints...']]
+2023-12-18 18:12:763 INFO  AddUserPage :100 - Enter the user name [[ChromeDriver: chrome on windows (49057093178446883576849fd218dde8)] -> xpath: //input[@class='oxd-input oxd-input--focus']]
+2023-12-18 18:12:316 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (8949b6ef93564007f42fcb2f8ab4276f)] -> name: username]
+2023-12-18 18:12:451 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 18:12:529 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (8949b6ef93564007f42fcb2f8ab4276f)] -> xpath: //button[@type='submit']]
+2023-12-18 18:12:218 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (47bc4a4a8fdcf2f0c993997cefe6c739)] -> name: username]
+2023-12-18 18:12:365 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 18:12:461 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (47bc4a4a8fdcf2f0c993997cefe6c739)] -> xpath: //button[@type='submit']]
+2023-12-18 18:12:671 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (47bc4a4a8fdcf2f0c993997cefe6c739)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-18 18:12:478 INFO  AdminPage :38 - Clicking on add button [[ChromeDriver: chrome on windows (47bc4a4a8fdcf2f0c993997cefe6c739)] -> xpath: //button[normalize-space()='Add']]
+2023-12-18 18:12:174 INFO  AddUserPage :91 - Enter the employee name [[ChromeDriver: chrome on windows (47bc4a4a8fdcf2f0c993997cefe6c739)] -> xpath: //input[@placeholder='Type for hints...']]
+2023-12-18 18:12:288 INFO  AddUserPage :100 - Enter the user name [[ChromeDriver: chrome on windows (47bc4a4a8fdcf2f0c993997cefe6c739)] -> xpath: //input[@class='oxd-input oxd-input--focus']]
+2023-12-18 18:12:603 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (b050b4d091222a02b432b5afefe7d0a5)] -> name: username]
+2023-12-18 18:12:739 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 18:12:818 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (b050b4d091222a02b432b5afefe7d0a5)] -> xpath: //button[@type='submit']]
+2023-12-18 18:12:616 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (61f866f8cbbd8491c952ed0f90114c73)] -> name: username]
+2023-12-18 18:12:730 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 18:12:814 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (61f866f8cbbd8491c952ed0f90114c73)] -> xpath: //button[@type='submit']]
+2023-12-18 18:12:990 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (61f866f8cbbd8491c952ed0f90114c73)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-18 18:12:833 INFO  AdminPage :38 - Clicking on add button [[ChromeDriver: chrome on windows (61f866f8cbbd8491c952ed0f90114c73)] -> xpath: //button[normalize-space()='Add']]
+2023-12-18 18:12:512 INFO  AddUserPage :91 - Enter the employee name [[ChromeDriver: chrome on windows (61f866f8cbbd8491c952ed0f90114c73)] -> xpath: //input[@placeholder='Type for hints...']]
+2023-12-18 18:12:633 INFO  AddUserPage :100 - Enter the user name [[ChromeDriver: chrome on windows (61f866f8cbbd8491c952ed0f90114c73)] -> xpath: //input[@class='oxd-input oxd-input--focus']]
+2023-12-18 18:12:488 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (39bd7c02bc15ff07f70eb7a844c4d5ea)] -> name: username]
+2023-12-18 18:12:599 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 18:12:670 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (39bd7c02bc15ff07f70eb7a844c4d5ea)] -> xpath: //button[@type='submit']]
+2023-12-18 18:12:242 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (2299502e572248734c717088dfb2dec8)] -> name: username]
+2023-12-18 18:12:371 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 18:12:445 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (2299502e572248734c717088dfb2dec8)] -> xpath: //button[@type='submit']]
+2023-12-18 18:12:739 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (2299502e572248734c717088dfb2dec8)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-18 18:12:596 INFO  AdminPage :38 - Clicking on add button [[ChromeDriver: chrome on windows (2299502e572248734c717088dfb2dec8)] -> xpath: //button[normalize-space()='Add']]
+2023-12-18 18:12:281 INFO  AddUserPage :91 - Enter the employee name [[ChromeDriver: chrome on windows (2299502e572248734c717088dfb2dec8)] -> xpath: //input[@placeholder='Type for hints...']]
+2023-12-18 18:12:473 INFO  AddUserPage :100 - Enter the user name [[ChromeDriver: chrome on windows (2299502e572248734c717088dfb2dec8)] -> xpath: //input[@class='oxd-input oxd-input--focus']]
+2023-12-18 18:12:734 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (853f8675d30bee18def876ad3feb12c2)] -> name: username]
+2023-12-18 18:12:856 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 18:12:922 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (853f8675d30bee18def876ad3feb12c2)] -> xpath: //button[@type='submit']]
+2023-12-18 18:12:531 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (538786b36d786e11d314dcdc9f0519fb)] -> name: username]
+2023-12-18 18:12:660 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 18:12:728 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (538786b36d786e11d314dcdc9f0519fb)] -> xpath: //button[@type='submit']]
+2023-12-18 18:12:755 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (538786b36d786e11d314dcdc9f0519fb)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-18 18:12:643 INFO  AdminPage :38 - Clicking on add button [[ChromeDriver: chrome on windows (538786b36d786e11d314dcdc9f0519fb)] -> xpath: //button[normalize-space()='Add']]
+2023-12-18 18:12:264 INFO  AddUserPage :91 - Enter the employee name [[ChromeDriver: chrome on windows (538786b36d786e11d314dcdc9f0519fb)] -> xpath: //input[@placeholder='Type for hints...']]
+2023-12-18 18:12:404 INFO  AddUserPage :100 - Enter the user name [[ChromeDriver: chrome on windows (538786b36d786e11d314dcdc9f0519fb)] -> xpath: //input[@class='oxd-input oxd-input--focus']]
+2023-12-18 19:12:440 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (921fce2b90e1acf9b1fd8276b2a45bc5)] -> name: username]
+2023-12-18 19:12:586 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 19:12:656 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (921fce2b90e1acf9b1fd8276b2a45bc5)] -> xpath: //button[@type='submit']]
+2023-12-18 19:12:321 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (2d9bbe9025ddc247ead30a54a314ad72)] -> name: username]
+2023-12-18 19:12:437 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 19:12:508 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (2d9bbe9025ddc247ead30a54a314ad72)] -> xpath: //button[@type='submit']]
+2023-12-18 19:12:935 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (560f09460dd3f591d16ac08af0d961a5)] -> name: username]
+2023-12-18 19:12:51 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 19:12:120 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (560f09460dd3f591d16ac08af0d961a5)] -> xpath: //button[@type='submit']]
+2023-12-18 19:12:341 INFO  HomePage :43 - Clicking on user profile [[ChromeDriver: chrome on windows (560f09460dd3f591d16ac08af0d961a5)] -> xpath: //p[@class='oxd-userdropdown-name']]
+2023-12-18 19:12:258 INFO  HomePage :48 - Clicking on logout button [[ChromeDriver: chrome on windows (560f09460dd3f591d16ac08af0d961a5)] -> xpath: //a[normalize-space()='Logout']]
+2023-12-18 19:12:444 INFO  HomePage :33 - Verifying login text [[ChromeDriver: chrome on windows (560f09460dd3f591d16ac08af0d961a5)] -> xpath: //h5[@class='oxd-text oxd-text--h5 orangehrm-login-title']]
+2023-12-18 19:12:976 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (06dfbf0a1648f1fb0df1e8568bf8e10e)] -> name: username]
+2023-12-18 19:12:124 INFO  LoginPage :50 - Enter the password 
+2023-12-18 19:12:214 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (06dfbf0a1648f1fb0df1e8568bf8e10e)] -> xpath: //button[@type='submit']]
+2023-12-18 19:12:741 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (e35211cda340ba1d49641943893de2f8)] -> name: username]
+2023-12-18 19:12:845 INFO  LoginPage :50 - Enter the password 
+2023-12-18 19:12:911 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (e35211cda340ba1d49641943893de2f8)] -> xpath: //button[@type='submit']]
+2023-12-18 19:12:356 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (d972879e2ec75a088e93c9bec20bbee8)] -> name: username]
+2023-12-18 19:12:504 INFO  LoginPage :50 - Enter the password test123
+2023-12-18 19:12:585 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (d972879e2ec75a088e93c9bec20bbee8)] -> xpath: //button[@type='submit']]
+2023-12-18 19:12:403 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (6bfffc733f273832b1a4872bb70e21a8)] -> name: username]
+2023-12-18 19:12:526 INFO  LoginPage :50 - Enter the password test123
+2023-12-18 19:12:595 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (6bfffc733f273832b1a4872bb70e21a8)] -> xpath: //button[@type='submit']]
+2023-12-18 19:12:74 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (6f7484603d44ece35aafb64e2126b093)] -> name: username]
+2023-12-18 19:12:189 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 19:12:262 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (6f7484603d44ece35aafb64e2126b093)] -> xpath: //button[@type='submit']]
+2023-12-18 19:12:535 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (6f7484603d44ece35aafb64e2126b093)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-18 19:12:425 INFO  AdminPage :38 - Clicking on add button [[ChromeDriver: chrome on windows (6f7484603d44ece35aafb64e2126b093)] -> xpath: //button[normalize-space()='Add']]
+2023-12-18 19:12:21 INFO  AddUserPage :91 - Enter the employee name [[ChromeDriver: chrome on windows (6f7484603d44ece35aafb64e2126b093)] -> xpath: //input[@placeholder='Type for hints...']]
+2023-12-18 19:12:193 INFO  AddUserPage :100 - Enter the user name [[ChromeDriver: chrome on windows (6f7484603d44ece35aafb64e2126b093)] -> xpath: //input[@class='oxd-input oxd-input--focus']]
+2023-12-18 19:12:943 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (299b08a792379c9abfb54770f30b3721)] -> name: username]
+2023-12-18 19:12:48 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 19:12:132 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (299b08a792379c9abfb54770f30b3721)] -> xpath: //button[@type='submit']]
+2023-12-18 19:12:330 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (299b08a792379c9abfb54770f30b3721)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-18 19:12:889 INFO  ViewSystemUsersPage :101 - Enter the user name [[ChromeDriver: chrome on windows (299b08a792379c9abfb54770f30b3721)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2023-12-18 19:12:959 INFO  ViewSystemUsersPage :147 - Enter the search [[ChromeDriver: chrome on windows (299b08a792379c9abfb54770f30b3721)] -> xpath: //button[normalize-space()='Search']]
+2023-12-18 19:12:351 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (dbf75a5692ea84f121f31151a49c5711)] -> name: username]
+2023-12-18 19:12:473 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 19:12:549 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (dbf75a5692ea84f121f31151a49c5711)] -> xpath: //button[@type='submit']]
+2023-12-18 19:12:211 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (dbf75a5692ea84f121f31151a49c5711)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-18 19:12:649 INFO  ViewSystemUsersPage :101 - Enter the user name [[ChromeDriver: chrome on windows (dbf75a5692ea84f121f31151a49c5711)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2023-12-18 19:12:726 INFO  ViewSystemUsersPage :147 - Enter the search [[ChromeDriver: chrome on windows (dbf75a5692ea84f121f31151a49c5711)] -> xpath: //button[normalize-space()='Search']]
+2023-12-18 19:12:156 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (200e1546425bc30f03bd83c7dc8f7179)] -> name: username]
+2023-12-18 19:12:258 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 19:12:332 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (200e1546425bc30f03bd83c7dc8f7179)] -> xpath: //button[@type='submit']]
+2023-12-18 19:12:446 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (200e1546425bc30f03bd83c7dc8f7179)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-18 19:12:840 INFO  ViewSystemUsersPage :101 - Enter the user name [[ChromeDriver: chrome on windows (200e1546425bc30f03bd83c7dc8f7179)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2023-12-18 19:12:101 INFO  ViewSystemUsersPage :147 - Enter the search [[ChromeDriver: chrome on windows (200e1546425bc30f03bd83c7dc8f7179)] -> xpath: //button[normalize-space()='Search']]
+2023-12-18 19:12:415 INFO  ViewSystemUsersPage :172 - Clicking on reset button [[ChromeDriver: chrome on windows (200e1546425bc30f03bd83c7dc8f7179)] -> xpath: //button[normalize-space()='Reset']]
+2023-12-18 19:12:102 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (7d5129ba4d60735222e84893fe79d2da)] -> name: username]
+2023-12-18 19:12:199 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 19:12:270 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (7d5129ba4d60735222e84893fe79d2da)] -> xpath: //button[@type='submit']]
+2023-12-18 19:12:407 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (7d5129ba4d60735222e84893fe79d2da)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-18 19:12:933 INFO  ViewSystemUsersPage :101 - Enter the user name [[ChromeDriver: chrome on windows (7d5129ba4d60735222e84893fe79d2da)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2023-12-18 19:12:173 INFO  ViewSystemUsersPage :147 - Enter the search [[ChromeDriver: chrome on windows (7d5129ba4d60735222e84893fe79d2da)] -> xpath: //button[normalize-space()='Search']]
+2023-12-18 19:12:398 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (a1064353301362b6183932eafff25021)] -> name: username]
+2023-12-18 19:12:534 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 19:12:601 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (a1064353301362b6183932eafff25021)] -> xpath: //button[@type='submit']]
+2023-12-18 19:12:820 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (a1064353301362b6183932eafff25021)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-18 19:12:340 INFO  ViewSystemUsersPage :101 - Enter the user name [[ChromeDriver: chrome on windows (a1064353301362b6183932eafff25021)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2023-12-18 19:12:572 INFO  ViewSystemUsersPage :147 - Enter the search [[ChromeDriver: chrome on windows (a1064353301362b6183932eafff25021)] -> xpath: //button[normalize-space()='Search']]
+2023-12-18 19:12:867 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (26efacb4a768ffe1d997118fc19591c5)] -> name: username]
+2023-12-18 19:12:989 INFO  LoginPage :50 - Enter the password admin123
+2023-12-18 19:12:60 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (26efacb4a768ffe1d997118fc19591c5)] -> xpath: //button[@type='submit']]
+2023-12-18 19:12:193 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (26efacb4a768ffe1d997118fc19591c5)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-18 19:12:760 INFO  ViewSystemUsersPage :101 - Enter the user name [[ChromeDriver: chrome on windows (26efacb4a768ffe1d997118fc19591c5)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2023-12-18 19:12:945 INFO  ViewSystemUsersPage :147 - Enter the search [[ChromeDriver: chrome on windows (26efacb4a768ffe1d997118fc19591c5)] -> xpath: //button[normalize-space()='Search']]
+2023-12-19 08:12:568 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (7cc5225c3658e4f81eb470add7a6b4f4)] -> name: username]
+2023-12-19 08:12:704 INFO  LoginPage :50 - Enter the password admin123
+2023-12-19 08:12:772 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (7cc5225c3658e4f81eb470add7a6b4f4)] -> xpath: //button[@type='submit']]
+2023-12-19 08:12:254 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (449d563f66166b2a6991179715384b36)] -> name: username]
+2023-12-19 08:12:368 INFO  LoginPage :50 - Enter the password admin123
+2023-12-19 08:12:437 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (449d563f66166b2a6991179715384b36)] -> xpath: //button[@type='submit']]
+2023-12-19 08:12:677 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (4edc7ba7ea6a5d6294728dcf975de221)] -> name: username]
+2023-12-19 08:12:810 INFO  LoginPage :50 - Enter the password admin123
+2023-12-19 08:12:891 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (4edc7ba7ea6a5d6294728dcf975de221)] -> xpath: //button[@type='submit']]
+2023-12-19 08:12:163 INFO  HomePage :43 - Clicking on user profile [[ChromeDriver: chrome on windows (4edc7ba7ea6a5d6294728dcf975de221)] -> xpath: //p[@class='oxd-userdropdown-name']]
+2023-12-19 08:12:974 INFO  HomePage :48 - Clicking on logout button [[ChromeDriver: chrome on windows (4edc7ba7ea6a5d6294728dcf975de221)] -> xpath: //a[normalize-space()='Logout']]
+2023-12-19 08:12:166 INFO  HomePage :33 - Verifying login text [[ChromeDriver: chrome on windows (4edc7ba7ea6a5d6294728dcf975de221)] -> xpath: //h5[@class='oxd-text oxd-text--h5 orangehrm-login-title']]
+2023-12-19 08:12:81 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (a698d3c3abe4f6fe692a56084e764e25)] -> name: username]
+2023-12-19 08:12:172 INFO  LoginPage :50 - Enter the password 
+2023-12-19 08:12:251 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (a698d3c3abe4f6fe692a56084e764e25)] -> xpath: //button[@type='submit']]
+2023-12-19 08:12:355 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (1dea52c3036f7ca5e5db2d0f5e65a30d)] -> name: username]
+2023-12-19 08:12:423 INFO  LoginPage :50 - Enter the password 
+2023-12-19 08:12:498 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (1dea52c3036f7ca5e5db2d0f5e65a30d)] -> xpath: //button[@type='submit']]
+2023-12-19 08:12:301 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (f46450e2382b5fa9302d359e96d98f51)] -> name: username]
+2023-12-19 08:12:407 INFO  LoginPage :50 - Enter the password test123
+2023-12-19 08:12:474 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (f46450e2382b5fa9302d359e96d98f51)] -> xpath: //button[@type='submit']]
+2023-12-19 08:12:626 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (0b813d86398a5f505fd688c560b915c6)] -> name: username]
+2023-12-19 08:12:720 INFO  LoginPage :50 - Enter the password test123
+2023-12-19 08:12:242 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (0b813d86398a5f505fd688c560b915c6)] -> xpath: //button[@type='submit']]
+2023-12-19 08:12:374 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (3d42effdfe03b0a290fb3cfdfd720422)] -> name: username]
+2023-12-19 08:12:476 INFO  LoginPage :50 - Enter the password admin123
+2023-12-19 08:12:543 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (3d42effdfe03b0a290fb3cfdfd720422)] -> xpath: //button[@type='submit']]
+2023-12-19 08:12:312 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (3d42effdfe03b0a290fb3cfdfd720422)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-19 08:12:78 INFO  AdminPage :38 - Clicking on add button [[ChromeDriver: chrome on windows (3d42effdfe03b0a290fb3cfdfd720422)] -> xpath: //button[normalize-space()='Add']]
+2023-12-19 08:12:776 INFO  AddUserPage :91 - Enter the employee name [[ChromeDriver: chrome on windows (3d42effdfe03b0a290fb3cfdfd720422)] -> xpath: //input[@placeholder='Type for hints...']]
+2023-12-19 08:12:880 INFO  AddUserPage :100 - Enter the user name [[ChromeDriver: chrome on windows (3d42effdfe03b0a290fb3cfdfd720422)] -> xpath: //input[@class='oxd-input oxd-input--focus']]
+2023-12-19 08:12:434 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (de40dafe345495348992b59e010ddd22)] -> name: username]
+2023-12-19 08:12:527 INFO  LoginPage :50 - Enter the password admin123
+2023-12-19 08:12:585 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (de40dafe345495348992b59e010ddd22)] -> xpath: //button[@type='submit']]
+2023-12-19 08:12:953 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (de40dafe345495348992b59e010ddd22)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-19 08:12:387 INFO  ViewSystemUsersPage :101 - Enter the user name [[ChromeDriver: chrome on windows (de40dafe345495348992b59e010ddd22)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2023-12-19 08:12:446 INFO  ViewSystemUsersPage :147 - Enter the search [[ChromeDriver: chrome on windows (de40dafe345495348992b59e010ddd22)] -> xpath: //button[normalize-space()='Search']]
+2023-12-19 08:12:231 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (8ccc444fdb5d81a07d03ee8eddccad75)] -> name: username]
+2023-12-19 08:12:331 INFO  LoginPage :50 - Enter the password admin123
+2023-12-19 08:12:350 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (8ccc444fdb5d81a07d03ee8eddccad75)] -> xpath: //button[@type='submit']]
+2023-12-19 08:12:925 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (8ccc444fdb5d81a07d03ee8eddccad75)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-19 08:12:489 INFO  ViewSystemUsersPage :101 - Enter the user name [[ChromeDriver: chrome on windows (8ccc444fdb5d81a07d03ee8eddccad75)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2023-12-19 08:12:539 INFO  ViewSystemUsersPage :147 - Enter the search [[ChromeDriver: chrome on windows (8ccc444fdb5d81a07d03ee8eddccad75)] -> xpath: //button[normalize-space()='Search']]
+2023-12-19 08:12:16 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (17609e6759c3cf955737e1618082b869)] -> name: username]
+2023-12-19 08:12:110 INFO  LoginPage :50 - Enter the password admin123
+2023-12-19 08:12:194 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (17609e6759c3cf955737e1618082b869)] -> xpath: //button[@type='submit']]
+2023-12-19 08:12:03 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (17609e6759c3cf955737e1618082b869)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-19 08:12:385 INFO  ViewSystemUsersPage :101 - Enter the user name [[ChromeDriver: chrome on windows (17609e6759c3cf955737e1618082b869)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2023-12-19 08:12:661 INFO  ViewSystemUsersPage :147 - Enter the search [[ChromeDriver: chrome on windows (17609e6759c3cf955737e1618082b869)] -> xpath: //button[normalize-space()='Search']]
+2023-12-19 08:12:106 INFO  ViewSystemUsersPage :172 - Clicking on reset button [[ChromeDriver: chrome on windows (17609e6759c3cf955737e1618082b869)] -> xpath: //button[normalize-space()='Reset']]
+2023-12-19 08:12:13 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (f5e16b21bb265adb482f7bbb61b892cf)] -> name: username]
+2023-12-19 08:12:130 INFO  LoginPage :50 - Enter the password admin123
+2023-12-19 08:12:205 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (f5e16b21bb265adb482f7bbb61b892cf)] -> xpath: //button[@type='submit']]
+2023-12-19 08:12:671 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (f5e16b21bb265adb482f7bbb61b892cf)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-19 08:12:238 INFO  ViewSystemUsersPage :101 - Enter the user name [[ChromeDriver: chrome on windows (f5e16b21bb265adb482f7bbb61b892cf)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2023-12-19 08:12:381 INFO  ViewSystemUsersPage :147 - Enter the search [[ChromeDriver: chrome on windows (f5e16b21bb265adb482f7bbb61b892cf)] -> xpath: //button[normalize-space()='Search']]
+2023-12-19 08:12:580 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (81fe7d8e8fc8452f24dbb621a03d5dd8)] -> name: username]
+2023-12-19 08:12:700 INFO  LoginPage :50 - Enter the password admin123
+2023-12-19 08:12:768 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (81fe7d8e8fc8452f24dbb621a03d5dd8)] -> xpath: //button[@type='submit']]
+2023-12-19 08:12:171 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (81fe7d8e8fc8452f24dbb621a03d5dd8)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-19 08:12:625 INFO  ViewSystemUsersPage :101 - Enter the user name [[ChromeDriver: chrome on windows (81fe7d8e8fc8452f24dbb621a03d5dd8)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2023-12-19 08:12:889 INFO  ViewSystemUsersPage :147 - Enter the search [[ChromeDriver: chrome on windows (81fe7d8e8fc8452f24dbb621a03d5dd8)] -> xpath: //button[normalize-space()='Search']]
+2023-12-19 08:12:159 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (425db5a92ecea9058bbbb4b56b2b2fcf)] -> name: username]
+2023-12-19 08:12:280 INFO  LoginPage :50 - Enter the password admin123
+2023-12-19 08:12:354 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (425db5a92ecea9058bbbb4b56b2b2fcf)] -> xpath: //button[@type='submit']]
+2023-12-19 08:12:582 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (425db5a92ecea9058bbbb4b56b2b2fcf)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-19 08:12:56 INFO  ViewSystemUsersPage :101 - Enter the user name [[ChromeDriver: chrome on windows (425db5a92ecea9058bbbb4b56b2b2fcf)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2023-12-19 08:12:280 INFO  ViewSystemUsersPage :147 - Enter the search [[ChromeDriver: chrome on windows (425db5a92ecea9058bbbb4b56b2b2fcf)] -> xpath: //button[normalize-space()='Search']]
+2023-12-19 19:12:683 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (1bca59bba2afac869d1407709b5ef1a4)] -> name: username]
+2023-12-19 19:12:865 INFO  LoginPage :50 - Enter the password admin123
+2023-12-19 19:12:984 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (1bca59bba2afac869d1407709b5ef1a4)] -> xpath: //button[@type='submit']]
+2023-12-19 19:12:693 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (3b3ae5432f0ab22a1df1361b5d742f65)] -> name: username]
+2023-12-19 19:12:919 INFO  LoginPage :50 - Enter the password admin123
+2023-12-19 19:12:28 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (3b3ae5432f0ab22a1df1361b5d742f65)] -> xpath: //button[@type='submit']]
+2023-12-19 19:12:530 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (9574f2af490f4c4e8668b975f1a04e6f)] -> name: username]
+2023-12-19 19:12:695 INFO  LoginPage :50 - Enter the password admin123
+2023-12-19 19:12:749 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (9574f2af490f4c4e8668b975f1a04e6f)] -> xpath: //button[@type='submit']]
+2023-12-19 19:12:123 INFO  HomePage :43 - Clicking on user profile [[ChromeDriver: chrome on windows (9574f2af490f4c4e8668b975f1a04e6f)] -> xpath: //p[@class='oxd-userdropdown-name']]
+2023-12-19 19:12:08 INFO  HomePage :48 - Clicking on logout button [[ChromeDriver: chrome on windows (9574f2af490f4c4e8668b975f1a04e6f)] -> xpath: //a[normalize-space()='Logout']]
+2023-12-19 19:12:194 INFO  HomePage :33 - Verifying login text [[ChromeDriver: chrome on windows (9574f2af490f4c4e8668b975f1a04e6f)] -> xpath: //h5[@class='oxd-text oxd-text--h5 orangehrm-login-title']]
+2023-12-19 19:12:551 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (3dd75a666231e2952e18fb96766b7a17)] -> name: username]
+2023-12-19 19:12:652 INFO  LoginPage :50 - Enter the password 
+2023-12-19 19:12:767 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (3dd75a666231e2952e18fb96766b7a17)] -> xpath: //button[@type='submit']]
+2023-12-19 19:12:262 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (c8eb2c169259543e7c61913469d4e4b7)] -> name: username]
+2023-12-19 19:12:431 INFO  LoginPage :50 - Enter the password 
+2023-12-19 19:12:549 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (c8eb2c169259543e7c61913469d4e4b7)] -> xpath: //button[@type='submit']]
+2023-12-19 19:12:39 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (baf8340bf995d552ce386ada941a52b3)] -> name: username]
+2023-12-19 19:12:181 INFO  LoginPage :50 - Enter the password test123
+2023-12-19 19:12:281 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (baf8340bf995d552ce386ada941a52b3)] -> xpath: //button[@type='submit']]
+2023-12-19 19:12:03 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (3e222944ce3baf6fd567f6a25ad3fe58)] -> name: username]
+2023-12-19 19:12:153 INFO  LoginPage :50 - Enter the password test123
+2023-12-19 19:12:668 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (3e222944ce3baf6fd567f6a25ad3fe58)] -> xpath: //button[@type='submit']]
+2023-12-19 19:12:121 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (6d316dee2ce103fd2e12d074d5aed859)] -> name: username]
+2023-12-19 19:12:265 INFO  LoginPage :50 - Enter the password admin123
+2023-12-19 19:12:133 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (6d316dee2ce103fd2e12d074d5aed859)] -> xpath: //button[@type='submit']]
+2023-12-19 19:12:386 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (6d316dee2ce103fd2e12d074d5aed859)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-19 19:12:64 INFO  AdminPage :38 - Clicking on add button [[ChromeDriver: chrome on windows (6d316dee2ce103fd2e12d074d5aed859)] -> xpath: //button[normalize-space()='Add']]
+2023-12-19 19:12:698 INFO  AddUserPage :91 - Enter the employee name [[ChromeDriver: chrome on windows (6d316dee2ce103fd2e12d074d5aed859)] -> xpath: //input[@placeholder='Type for hints...']]
+2023-12-19 19:12:813 INFO  AddUserPage :100 - Enter the user name [[ChromeDriver: chrome on windows (6d316dee2ce103fd2e12d074d5aed859)] -> xpath: //input[@class='oxd-input oxd-input--focus']]
+2023-12-19 19:12:220 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (76a91fed47299318972b0a484184ba88)] -> name: username]
+2023-12-19 19:12:363 INFO  LoginPage :50 - Enter the password admin123
+2023-12-19 19:12:454 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (76a91fed47299318972b0a484184ba88)] -> xpath: //button[@type='submit']]
+2023-12-19 19:12:564 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (76a91fed47299318972b0a484184ba88)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-19 19:12:966 INFO  ViewSystemUsersPage :101 - Enter the user name [[ChromeDriver: chrome on windows (76a91fed47299318972b0a484184ba88)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2023-12-19 19:12:35 INFO  ViewSystemUsersPage :147 - Enter the search [[ChromeDriver: chrome on windows (76a91fed47299318972b0a484184ba88)] -> xpath: //button[normalize-space()='Search']]
+2023-12-19 19:12:233 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (2b706aacf36081bf455b74c011ed3f9b)] -> name: username]
+2023-12-19 19:12:369 INFO  LoginPage :50 - Enter the password admin123
+2023-12-19 19:12:458 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (2b706aacf36081bf455b74c011ed3f9b)] -> xpath: //button[@type='submit']]
+2023-12-19 19:12:559 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (2b706aacf36081bf455b74c011ed3f9b)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-19 19:12:943 INFO  ViewSystemUsersPage :101 - Enter the user name [[ChromeDriver: chrome on windows (2b706aacf36081bf455b74c011ed3f9b)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2023-12-19 19:12:17 INFO  ViewSystemUsersPage :147 - Enter the search [[ChromeDriver: chrome on windows (2b706aacf36081bf455b74c011ed3f9b)] -> xpath: //button[normalize-space()='Search']]
+2023-12-19 19:12:665 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (54bbc3ec4668c2620351d59b4fd6a947)] -> name: username]
+2023-12-19 19:12:784 INFO  LoginPage :50 - Enter the password admin123
+2023-12-19 19:12:686 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (54bbc3ec4668c2620351d59b4fd6a947)] -> xpath: //button[@type='submit']]
+2023-12-19 19:12:939 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (54bbc3ec4668c2620351d59b4fd6a947)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-19 19:12:356 INFO  ViewSystemUsersPage :101 - Enter the user name [[ChromeDriver: chrome on windows (54bbc3ec4668c2620351d59b4fd6a947)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2023-12-19 19:12:643 INFO  ViewSystemUsersPage :147 - Enter the search [[ChromeDriver: chrome on windows (54bbc3ec4668c2620351d59b4fd6a947)] -> xpath: //button[normalize-space()='Search']]
+2023-12-19 19:12:937 INFO  ViewSystemUsersPage :172 - Clicking on reset button [[ChromeDriver: chrome on windows (54bbc3ec4668c2620351d59b4fd6a947)] -> xpath: //button[normalize-space()='Reset']]
+2023-12-19 19:12:131 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (62a7a118988b3ff9170939d615d6dd68)] -> name: username]
+2023-12-19 19:12:276 INFO  LoginPage :50 - Enter the password admin123
+2023-12-19 19:12:374 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (62a7a118988b3ff9170939d615d6dd68)] -> xpath: //button[@type='submit']]
+2023-12-19 19:12:513 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (62a7a118988b3ff9170939d615d6dd68)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-19 19:12:899 INFO  ViewSystemUsersPage :101 - Enter the user name [[ChromeDriver: chrome on windows (62a7a118988b3ff9170939d615d6dd68)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2023-12-19 19:12:167 INFO  ViewSystemUsersPage :147 - Enter the search [[ChromeDriver: chrome on windows (62a7a118988b3ff9170939d615d6dd68)] -> xpath: //button[normalize-space()='Search']]
+2023-12-19 19:12:626 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (1cc11c9220b9c7471021fadf07e38318)] -> name: username]
+2023-12-19 19:12:754 INFO  LoginPage :50 - Enter the password admin123
+2023-12-19 19:12:834 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (1cc11c9220b9c7471021fadf07e38318)] -> xpath: //button[@type='submit']]
+2023-12-19 19:12:767 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (1cc11c9220b9c7471021fadf07e38318)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-19 19:12:136 INFO  ViewSystemUsersPage :101 - Enter the user name [[ChromeDriver: chrome on windows (1cc11c9220b9c7471021fadf07e38318)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2023-12-19 19:12:392 INFO  ViewSystemUsersPage :147 - Enter the search [[ChromeDriver: chrome on windows (1cc11c9220b9c7471021fadf07e38318)] -> xpath: //button[normalize-space()='Search']]
+2023-12-19 19:12:797 INFO  LoginPage :45 - Enter the user name [[ChromeDriver: chrome on windows (b7dfa3e68e7031e36e3331eca06b78d4)] -> name: username]
+2023-12-19 19:12:905 INFO  LoginPage :50 - Enter the password admin123
+2023-12-19 19:12:764 INFO  LoginPage :55 - Clicking on login button [[ChromeDriver: chrome on windows (b7dfa3e68e7031e36e3331eca06b78d4)] -> xpath: //button[@type='submit']]
+2023-12-19 19:12:93 INFO  AdminPage :33 - Clicking on admin [[ChromeDriver: chrome on windows (b7dfa3e68e7031e36e3331eca06b78d4)] -> xpath: //body/div[@id='app']/div[1]/div[1]/aside[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]/span[1]]
+2023-12-19 19:12:448 INFO  ViewSystemUsersPage :101 - Enter the user name [[ChromeDriver: chrome on windows (b7dfa3e68e7031e36e3331eca06b78d4)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2023-12-19 19:12:737 INFO  ViewSystemUsersPage :147 - Enter the search [[ChromeDriver: chrome on windows (b7dfa3e68e7031e36e3331eca06b78d4)] -> xpath: //button[normalize-space()='Search']]
